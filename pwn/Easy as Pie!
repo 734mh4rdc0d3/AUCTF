@@ -1,0 +1,5 @@
+here before opening the content the file is checked in access control list
+so we check the permission of each file using cat acl.txt
+we found that acl.txt is readable and writable by public so we overwrite it with 
+write .acl.txt:user:600 to see the content of .acl.txt
+

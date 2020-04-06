@@ -1,0 +1,3 @@
+auctf{m0b1le_r3v3rs1ng!!}
+
+strings mobile0/resources.arsc | grep auctf
