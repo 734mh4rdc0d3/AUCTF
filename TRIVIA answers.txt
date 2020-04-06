@@ -1,0 +1,83 @@
+question
+trivia: password 1:
+A more secure way to hashing a password involves appending this to the password before the hashing is done.
+
+answer: salt
+
+question:
+trivia: osint:
+What President is responsible for the agency that OSINT originated from? (First and Last name)
+
+originated near second world war, so president at the time of second world war was:
+answer: franklin roosevelt
+
+question:
+trivia: networking 1:
+What is Layer 7 of the OSI Model?
+
+answer: application
+
+question
+trivia: networking 2:
+What protocol dynamically allocates IP Addresses?
+
+answer: dhcp
+
+question
+trivia: networking 3:
+What type of packet does ping use?
+
+answer: icmp
+
+question
+trivia: networking 4:
+What is the range of usable IP addresses with the following: 110.24.52.32/19
+
+answer: 110.24.32.1 - 110.24.63.254 
+
+question
+trivia: pwn:
+What is a countermeasure used to prevent return oriented programming?
+
+answer: Address space layout randomization
+
+question
+trivia: pwn 2:
+What are the pieces of a rop chain called?
+
+http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html
+answer: gadget
+
+question
+trivia: reversing 2:
+What is the deliberate act of trying to make code unreadable by a human in order to prevent tampering and to help ensure security?
+
+answer: obfuscation
+
+question
+trivia: web 1:
+These properties are important to guarantee valid transactions within a database?
+
+answer: Atomicity, Consistency, Isolation, and Durability
+
+question
+trivia: web 2:
+This web attack takes advantage of web applications that can perform actions input by trusted users without requiring any form of authorization from the user allowing an attacker to perform actions through another user.
+
+answer: cross site request forgery
+
+question
+trivia:Password 2
+What company fell victim to the largest known breach in history? What year was the full extent of the breach discovered?
+
+https://www.csoonline.com/article/2130877/the-biggest-data-breaches-of-the-21st-century.html
+https://www.csoonline.com/article/3180762/inside-the-russian-hack-of-yahoo-how-they-did-it.html
+answer: yahoo:2017
+
+question
+trivia: reversing 1
+What person is credited with creating the first assembler and what device was it used in?
+
+https://en.wikipedia.org/wiki/Assembly_language (jump to "use of assembly language")
+answer: David Wheeler:EDSAC
+

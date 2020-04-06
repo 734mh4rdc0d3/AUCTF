@@ -1,0 +1,9 @@
+question 
+sequence: 4:
+
+14, 15, 92, 65, 35, __, __, __, __, __
+
+https://oeis.org/search?q=14%2C15%2C+92%2C+65%2C+35%2C&language=english&go=Search
+sequence of pi letters
+89, 79, 32, 38, 46
+
